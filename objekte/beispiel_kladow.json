@@ -1,0 +1,45 @@
+{
+  "beispiel": true,
+  "empfaenger": "Familie Muster",
+  "datum": "27.11.2026",
+  "strasse": "Krampnitzer Weg",
+  "hausnummer": null,
+  "plz": "14089",
+  "ortsteil": "Kladow",
+  "typ": "freistehend",
+  "baujahr": 1979,
+  "wohnflaeche": 145,
+  "grundstueck": 720,
+  "zimmer": 5,
+  "ausstattung": [
+    "Voll unterkellert",
+    "Garage",
+    "Kamin",
+    "Terrasse mit Südgarten"
+  ],
+  "modernisiert": [
+    "Heizung 2016 (Gas-Brennwert)",
+    "Bad 2012",
+    "Fenster 2008"
+  ],
+  "im_original": [
+    "Dach von 1979",
+    "Fassade ungedämmt"
+  ],
+  "energieklasse": "E",
+  "anpassungen": [
+    {
+      "text": "Dach und Fassade im Original, Energieklasse E",
+      "prozent": -6.0
+    },
+    {
+      "text": "Heizung, Bad und Fenster modernisiert",
+      "prozent": 3.0
+    },
+    {
+      "text": "Vollkeller, Garage und Kamin",
+      "prozent": 1.0
+    }
+  ],
+  "spanne_prozent": 6.0
+}

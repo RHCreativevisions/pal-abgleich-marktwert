@@ -1,0 +1,18 @@
+{
+  "name": "ImmoPal",
+  "firma": "ImmoPal UG (haftungsbeschränkt)",
+  "adresse": "Genfenbergstraße 23, 13595 Berlin",
+  "telefon_anzeige": "030 46690542",
+  "telefon_e164": "+493046690542",
+  "whatsapp": "493046690542",
+  "email": "info@immo-pal.de",
+  "impressum": "https://www.immo-pal.de/impressum/",
+  "datenschutz": "https://www.immo-pal.de/datenschutz/",
+  "methode": "Pal-Abgleich",
+  "berater": "Dennis Darwiche",
+  "berater_rolle": "Ihr Ansprechpartner bei ImmoPal",
+  "berater_foto": "assets/berater.jpg",
+  "logo_hell": "assets/logo-hell.png",
+  "logo_dunkel": "assets/logo-dunkel.png",
+  "farben": {"primaer": "#222D4F", "hintergrund": "#F1F0E9", "akzent": "#A8834A"}
+}

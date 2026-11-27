@@ -1,0 +1,6 @@
+# Lead-Daten nie ins Repo
+objekte/*
+!objekte/beispiel_*.json
+ausgabe/
+__pycache__/
+.DS_Store

@@ -1,0 +1,1049 @@
+{
+ "quelle": "Ortsteil → Altbezirk nach amtlichen Ortsteilschlüsseln (Berlin), PLZ → Ortsteil als Näherung",
+ "ortsteile": {
+  "Mitte": {
+   "bezirk": "Mitte",
+   "altbezirk": "Mitte"
+  },
+  "Moabit": {
+   "bezirk": "Mitte",
+   "altbezirk": "Tiergarten"
+  },
+  "Hansaviertel": {
+   "bezirk": "Mitte",
+   "altbezirk": "Tiergarten"
+  },
+  "Tiergarten": {
+   "bezirk": "Mitte",
+   "altbezirk": "Tiergarten"
+  },
+  "Wedding": {
+   "bezirk": "Mitte",
+   "altbezirk": "Wedding"
+  },
+  "Gesundbrunnen": {
+   "bezirk": "Mitte",
+   "altbezirk": "Wedding"
+  },
+  "Friedrichshain": {
+   "bezirk": "Friedrichshain-Kreuzberg",
+   "altbezirk": "Friedrichshain"
+  },
+  "Kreuzberg": {
+   "bezirk": "Friedrichshain-Kreuzberg",
+   "altbezirk": "Kreuzberg"
+  },
+  "Prenzlauer Berg": {
+   "bezirk": "Pankow",
+   "altbezirk": "Prenzlauer Berg"
+  },
+  "Weißensee": {
+   "bezirk": "Pankow",
+   "altbezirk": "Weißensee"
+  },
+  "Blankenburg": {
+   "bezirk": "Pankow",
+   "altbezirk": "Weißensee"
+  },
+  "Heinersdorf": {
+   "bezirk": "Pankow",
+   "altbezirk": "Weißensee"
+  },
+  "Karow": {
+   "bezirk": "Pankow",
+   "altbezirk": "Weißensee"
+  },
+  "Stadtrandsiedlung Malchow": {
+   "bezirk": "Pankow",
+   "altbezirk": "Weißensee"
+  },
+  "Pankow": {
+   "bezirk": "Pankow",
+   "altbezirk": "Pankow"
+  },
+  "Blankenfelde": {
+   "bezirk": "Pankow",
+   "altbezirk": "Pankow"
+  },
+  "Buch": {
+   "bezirk": "Pankow",
+   "altbezirk": "Pankow"
+  },
+  "Französisch Buchholz": {
+   "bezirk": "Pankow",
+   "altbezirk": "Pankow"
+  },
+  "Niederschönhausen": {
+   "bezirk": "Pankow",
+   "altbezirk": "Pankow"
+  },
+  "Rosenthal": {
+   "bezirk": "Pankow",
+   "altbezirk": "Pankow"
+  },
+  "Wilhelmsruh": {
+   "bezirk": "Pankow",
+   "altbezirk": "Pankow"
+  },
+  "Charlottenburg": {
+   "bezirk": "Charlottenburg-Wilmersdorf",
+   "altbezirk": "Charlottenburg"
+  },
+  "Wilmersdorf": {
+   "bezirk": "Charlottenburg-Wilmersdorf",
+   "altbezirk": "Wilmersdorf"
+  },
+  "Schmargendorf": {
+   "bezirk": "Charlottenburg-Wilmersdorf",
+   "altbezirk": "Wilmersdorf"
+  },
+  "Grunewald": {
+   "bezirk": "Charlottenburg-Wilmersdorf",
+   "altbezirk": "Wilmersdorf"
+  },
+  "Westend": {
+   "bezirk": "Charlottenburg-Wilmersdorf",
+   "altbezirk": "Charlottenburg"
+  },
+  "Charlottenburg-Nord": {
+   "bezirk": "Charlottenburg-Wilmersdorf",
+   "altbezirk": "Charlottenburg"
+  },
+  "Halensee": {
+   "bezirk": "Charlottenburg-Wilmersdorf",
+   "altbezirk": "Wilmersdorf"
+  },
+  "Spandau": {
+   "bezirk": "Spandau",
+   "altbezirk": "Spandau"
+  },
+  "Haselhorst": {
+   "bezirk": "Spandau",
+   "altbezirk": "Spandau"
+  },
+  "Siemensstadt": {
+   "bezirk": "Spandau",
+   "altbezirk": "Spandau"
+  },
+  "Staaken": {
+   "bezirk": "Spandau",
+   "altbezirk": "Spandau"
+  },
+  "Gatow": {
+   "bezirk": "Spandau",
+   "altbezirk": "Spandau"
+  },
+  "Kladow": {
+   "bezirk": "Spandau",
+   "altbezirk": "Spandau"
+  },
+  "Hakenfelde": {
+   "bezirk": "Spandau",
+   "altbezirk": "Spandau"
+  },
+  "Falkenhagener Feld": {
+   "bezirk": "Spandau",
+   "altbezirk": "Spandau"
+  },
+  "Wilhelmstadt": {
+   "bezirk": "Spandau",
+   "altbezirk": "Spandau"
+  },
+  "Steglitz": {
+   "bezirk": "Steglitz-Zehlendorf",
+   "altbezirk": "Steglitz"
+  },
+  "Lichterfelde": {
+   "bezirk": "Steglitz-Zehlendorf",
+   "altbezirk": "Steglitz"
+  },
+  "Lankwitz": {
+   "bezirk": "Steglitz-Zehlendorf",
+   "altbezirk": "Steglitz"
+  },
+  "Zehlendorf": {
+   "bezirk": "Steglitz-Zehlendorf",
+   "altbezirk": "Zehlendorf"
+  },
+  "Dahlem": {
+   "bezirk": "Steglitz-Zehlendorf",
+   "altbezirk": "Zehlendorf"
+  },
+  "Nikolassee": {
+   "bezirk": "Steglitz-Zehlendorf",
+   "altbezirk": "Zehlendorf"
+  },
+  "Wannsee": {
+   "bezirk": "Steglitz-Zehlendorf",
+   "altbezirk": "Zehlendorf"
+  },
+  "Schlachtensee": {
+   "bezirk": "Steglitz-Zehlendorf",
+   "altbezirk": "Zehlendorf"
+  },
+  "Schöneberg": {
+   "bezirk": "Tempelhof-Schöneberg",
+   "altbezirk": "Schöneberg"
+  },
+  "Friedenau": {
+   "bezirk": "Tempelhof-Schöneberg",
+   "altbezirk": "Schöneberg"
+  },
+  "Tempelhof": {
+   "bezirk": "Tempelhof-Schöneberg",
+   "altbezirk": "Tempelhof"
+  },
+  "Mariendorf": {
+   "bezirk": "Tempelhof-Schöneberg",
+   "altbezirk": "Tempelhof"
+  },
+  "Marienfelde": {
+   "bezirk": "Tempelhof-Schöneberg",
+   "altbezirk": "Tempelhof"
+  },
+  "Lichtenrade": {
+   "bezirk": "Tempelhof-Schöneberg",
+   "altbezirk": "Tempelhof"
+  },
+  "Neukölln": {
+   "bezirk": "Neukölln",
+   "altbezirk": "Neukölln"
+  },
+  "Britz": {
+   "bezirk": "Neukölln",
+   "altbezirk": "Neukölln"
+  },
+  "Buckow": {
+   "bezirk": "Neukölln",
+   "altbezirk": "Neukölln"
+  },
+  "Rudow": {
+   "bezirk": "Neukölln",
+   "altbezirk": "Neukölln"
+  },
+  "Gropiusstadt": {
+   "bezirk": "Neukölln",
+   "altbezirk": "Neukölln"
+  },
+  "Alt-Treptow": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Treptow"
+  },
+  "Plänterwald": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Treptow"
+  },
+  "Baumschulenweg": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Treptow"
+  },
+  "Johannisthal": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Treptow"
+  },
+  "Niederschöneweide": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Treptow"
+  },
+  "Altglienicke": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Treptow"
+  },
+  "Adlershof": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Treptow"
+  },
+  "Bohnsdorf": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Treptow"
+  },
+  "Oberschöneweide": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Köpenick"
+  },
+  "Köpenick": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Köpenick"
+  },
+  "Friedrichshagen": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Köpenick"
+  },
+  "Rahnsdorf": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Köpenick"
+  },
+  "Grünau": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Köpenick"
+  },
+  "Müggelheim": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Köpenick"
+  },
+  "Schmöckwitz": {
+   "bezirk": "Treptow-Köpenick",
+   "altbezirk": "Köpenick"
+  },
+  "Marzahn": {
+   "bezirk": "Marzahn-Hellersdorf",
+   "altbezirk": "Marzahn"
+  },
+  "Biesdorf": {
+   "bezirk": "Marzahn-Hellersdorf",
+   "altbezirk": "Marzahn"
+  },
+  "Kaulsdorf": {
+   "bezirk": "Marzahn-Hellersdorf",
+   "altbezirk": "Hellersdorf"
+  },
+  "Mahlsdorf": {
+   "bezirk": "Marzahn-Hellersdorf",
+   "altbezirk": "Hellersdorf"
+  },
+  "Hellersdorf": {
+   "bezirk": "Marzahn-Hellersdorf",
+   "altbezirk": "Hellersdorf"
+  },
+  "Friedrichsfelde": {
+   "bezirk": "Lichtenberg",
+   "altbezirk": "Lichtenberg"
+  },
+  "Karlshorst": {
+   "bezirk": "Lichtenberg",
+   "altbezirk": "Lichtenberg"
+  },
+  "Lichtenberg": {
+   "bezirk": "Lichtenberg",
+   "altbezirk": "Lichtenberg"
+  },
+  "Falkenberg": {
+   "bezirk": "Lichtenberg",
+   "altbezirk": "Hohenschönhausen"
+  },
+  "Malchow": {
+   "bezirk": "Lichtenberg",
+   "altbezirk": "Hohenschönhausen"
+  },
+  "Wartenberg": {
+   "bezirk": "Lichtenberg",
+   "altbezirk": "Hohenschönhausen"
+  },
+  "Neu-Hohenschönhausen": {
+   "bezirk": "Lichtenberg",
+   "altbezirk": "Hohenschönhausen"
+  },
+  "Alt-Hohenschönhausen": {
+   "bezirk": "Lichtenberg",
+   "altbezirk": "Hohenschönhausen"
+  },
+  "Fennpfuhl": {
+   "bezirk": "Lichtenberg",
+   "altbezirk": "Lichtenberg"
+  },
+  "Rummelsburg": {
+   "bezirk": "Lichtenberg",
+   "altbezirk": "Lichtenberg"
+  },
+  "Reinickendorf": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  },
+  "Tegel": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  },
+  "Konradshöhe": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  },
+  "Heiligensee": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  },
+  "Frohnau": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  },
+  "Hermsdorf": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  },
+  "Waidmannslust": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  },
+  "Lübars": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  },
+  "Wittenau": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  },
+  "Märkisches Viertel": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  },
+  "Borsigwalde": {
+   "bezirk": "Reinickendorf",
+   "altbezirk": "Reinickendorf"
+  }
+ },
+ "plz": {
+  "10115": [
+   "Mitte"
+  ],
+  "10117": [
+   "Mitte"
+  ],
+  "10119": [
+   "Mitte",
+   "Prenzlauer Berg"
+  ],
+  "10178": [
+   "Mitte"
+  ],
+  "10179": [
+   "Mitte"
+  ],
+  "10243": [
+   "Friedrichshain"
+  ],
+  "10245": [
+   "Friedrichshain"
+  ],
+  "10247": [
+   "Friedrichshain",
+   "Prenzlauer Berg"
+  ],
+  "10249": [
+   "Friedrichshain",
+   "Prenzlauer Berg"
+  ],
+  "10315": [
+   "Friedrichsfelde",
+   "Lichtenberg"
+  ],
+  "10317": [
+   "Rummelsburg"
+  ],
+  "10318": [
+   "Karlshorst"
+  ],
+  "10319": [
+   "Friedrichsfelde"
+  ],
+  "10365": [
+   "Lichtenberg"
+  ],
+  "10367": [
+   "Lichtenberg",
+   "Fennpfuhl"
+  ],
+  "10369": [
+   "Fennpfuhl"
+  ],
+  "10405": [
+   "Prenzlauer Berg"
+  ],
+  "10407": [
+   "Prenzlauer Berg"
+  ],
+  "10409": [
+   "Prenzlauer Berg"
+  ],
+  "10435": [
+   "Prenzlauer Berg",
+   "Mitte"
+  ],
+  "10437": [
+   "Prenzlauer Berg"
+  ],
+  "10439": [
+   "Prenzlauer Berg"
+  ],
+  "10551": [
+   "Moabit"
+  ],
+  "10553": [
+   "Moabit"
+  ],
+  "10555": [
+   "Moabit",
+   "Hansaviertel"
+  ],
+  "10557": [
+   "Moabit",
+   "Hansaviertel"
+  ],
+  "10559": [
+   "Moabit"
+  ],
+  "10585": [
+   "Charlottenburg"
+  ],
+  "10587": [
+   "Charlottenburg"
+  ],
+  "10589": [
+   "Charlottenburg"
+  ],
+  "10623": [
+   "Charlottenburg",
+   "Tiergarten"
+  ],
+  "10625": [
+   "Charlottenburg"
+  ],
+  "10627": [
+   "Charlottenburg"
+  ],
+  "10629": [
+   "Charlottenburg"
+  ],
+  "10707": [
+   "Wilmersdorf",
+   "Charlottenburg"
+  ],
+  "10709": [
+   "Wilmersdorf",
+   "Halensee"
+  ],
+  "10711": [
+   "Halensee"
+  ],
+  "10713": [
+   "Wilmersdorf"
+  ],
+  "10715": [
+   "Wilmersdorf"
+  ],
+  "10717": [
+   "Wilmersdorf"
+  ],
+  "10719": [
+   "Wilmersdorf",
+   "Charlottenburg"
+  ],
+  "10777": [
+   "Schöneberg",
+   "Wilmersdorf"
+  ],
+  "10779": [
+   "Schöneberg",
+   "Wilmersdorf"
+  ],
+  "10781": [
+   "Schöneberg"
+  ],
+  "10783": [
+   "Schöneberg"
+  ],
+  "10785": [
+   "Tiergarten",
+   "Schöneberg",
+   "Kreuzberg"
+  ],
+  "10787": [
+   "Tiergarten",
+   "Schöneberg",
+   "Charlottenburg"
+  ],
+  "10789": [
+   "Charlottenburg",
+   "Schöneberg",
+   "Wilmersdorf"
+  ],
+  "10823": [
+   "Schöneberg"
+  ],
+  "10825": [
+   "Schöneberg",
+   "Wilmersdorf"
+  ],
+  "10827": [
+   "Schöneberg"
+  ],
+  "10829": [
+   "Schöneberg"
+  ],
+  "10961": [
+   "Kreuzberg"
+  ],
+  "10963": [
+   "Kreuzberg"
+  ],
+  "10965": [
+   "Kreuzberg",
+   "Tempelhof",
+   "Schöneberg"
+  ],
+  "10967": [
+   "Kreuzberg",
+   "Neukölln"
+  ],
+  "10969": [
+   "Kreuzberg"
+  ],
+  "10997": [
+   "Kreuzberg"
+  ],
+  "10999": [
+   "Kreuzberg"
+  ],
+  "12043": [
+   "Neukölln"
+  ],
+  "12045": [
+   "Neukölln"
+  ],
+  "12047": [
+   "Neukölln"
+  ],
+  "12049": [
+   "Neukölln"
+  ],
+  "12051": [
+   "Neukölln"
+  ],
+  "12053": [
+   "Neukölln"
+  ],
+  "12055": [
+   "Neukölln"
+  ],
+  "12057": [
+   "Neukölln"
+  ],
+  "12059": [
+   "Neukölln"
+  ],
+  "12099": [
+   "Tempelhof"
+  ],
+  "12101": [
+   "Tempelhof"
+  ],
+  "12103": [
+   "Tempelhof",
+   "Schöneberg"
+  ],
+  "12105": [
+   "Mariendorf",
+   "Tempelhof",
+   "Schöneberg"
+  ],
+  "12107": [
+   "Mariendorf"
+  ],
+  "12109": [
+   "Mariendorf"
+  ],
+  "12157": [
+   "Schöneberg",
+   "Steglitz"
+  ],
+  "12159": [
+   "Friedenau",
+   "Schöneberg"
+  ],
+  "12161": [
+   "Friedenau",
+   "Steglitz"
+  ],
+  "12163": [
+   "Steglitz"
+  ],
+  "12165": [
+   "Steglitz"
+  ],
+  "12167": [
+   "Steglitz"
+  ],
+  "12169": [
+   "Steglitz"
+  ],
+  "12203": [
+   "Lichterfelde"
+  ],
+  "12205": [
+   "Lichterfelde"
+  ],
+  "12207": [
+   "Lichterfelde"
+  ],
+  "12209": [
+   "Lichterfelde"
+  ],
+  "12247": [
+   "Lankwitz",
+   "Steglitz"
+  ],
+  "12249": [
+   "Lankwitz"
+  ],
+  "12277": [
+   "Marienfelde",
+   "Mariendorf"
+  ],
+  "12279": [
+   "Marienfelde"
+  ],
+  "12305": [
+   "Lichtenrade"
+  ],
+  "12307": [
+   "Lichtenrade"
+  ],
+  "12309": [
+   "Lichtenrade"
+  ],
+  "12347": [
+   "Britz"
+  ],
+  "12349": [
+   "Buckow",
+   "Britz"
+  ],
+  "12351": [
+   "Buckow",
+   "Britz",
+   "Gropiusstadt"
+  ],
+  "12353": [
+   "Buckow",
+   "Gropiusstadt",
+   "Rudow"
+  ],
+  "12355": [
+   "Rudow"
+  ],
+  "12357": [
+   "Rudow"
+  ],
+  "12359": [
+   "Britz",
+   "Buckow"
+  ],
+  "12435": [
+   "Alt-Treptow",
+   "Plänterwald"
+  ],
+  "12437": [
+   "Baumschulenweg",
+   "Plänterwald"
+  ],
+  "12439": [
+   "Niederschöneweide"
+  ],
+  "12459": [
+   "Oberschöneweide"
+  ],
+  "12487": [
+   "Johannisthal"
+  ],
+  "12489": [
+   "Adlershof"
+  ],
+  "12524": [
+   "Altglienicke"
+  ],
+  "12526": [
+   "Bohnsdorf"
+  ],
+  "12527": [
+   "Schmöckwitz",
+   "Grünau"
+  ],
+  "12555": [
+   "Köpenick"
+  ],
+  "12557": [
+   "Köpenick"
+  ],
+  "12559": [
+   "Müggelheim",
+   "Köpenick"
+  ],
+  "12587": [
+   "Friedrichshagen"
+  ],
+  "12589": [
+   "Rahnsdorf"
+  ],
+  "12619": [
+   "Hellersdorf",
+   "Kaulsdorf"
+  ],
+  "12621": [
+   "Kaulsdorf"
+  ],
+  "12623": [
+   "Mahlsdorf"
+  ],
+  "12627": [
+   "Hellersdorf"
+  ],
+  "12629": [
+   "Hellersdorf"
+  ],
+  "12679": [
+   "Marzahn"
+  ],
+  "12681": [
+   "Marzahn"
+  ],
+  "12683": [
+   "Biesdorf"
+  ],
+  "12685": [
+   "Marzahn"
+  ],
+  "12687": [
+   "Marzahn"
+  ],
+  "12689": [
+   "Marzahn"
+  ],
+  "13051": [
+   "Neu-Hohenschönhausen",
+   "Alt-Hohenschönhausen",
+   "Malchow",
+   "Wartenberg"
+  ],
+  "13053": [
+   "Alt-Hohenschönhausen",
+   "Neu-Hohenschönhausen"
+  ],
+  "13055": [
+   "Alt-Hohenschönhausen"
+  ],
+  "13057": [
+   "Falkenberg",
+   "Neu-Hohenschönhausen"
+  ],
+  "13059": [
+   "Wartenberg",
+   "Neu-Hohenschönhausen"
+  ],
+  "13086": [
+   "Weißensee"
+  ],
+  "13088": [
+   "Weißensee",
+   "Stadtrandsiedlung Malchow"
+  ],
+  "13089": [
+   "Heinersdorf"
+  ],
+  "13125": [
+   "Karow",
+   "Buch"
+  ],
+  "13127": [
+   "Französisch Buchholz"
+  ],
+  "13129": [
+   "Blankenburg"
+  ],
+  "13156": [
+   "Niederschönhausen"
+  ],
+  "13158": [
+   "Rosenthal",
+   "Wilhelmsruh",
+   "Niederschönhausen"
+  ],
+  "13159": [
+   "Blankenfelde"
+  ],
+  "13187": [
+   "Pankow"
+  ],
+  "13189": [
+   "Pankow"
+  ],
+  "13347": [
+   "Wedding",
+   "Gesundbrunnen"
+  ],
+  "13349": [
+   "Wedding"
+  ],
+  "13351": [
+   "Wedding"
+  ],
+  "13353": [
+   "Wedding"
+  ],
+  "13355": [
+   "Gesundbrunnen"
+  ],
+  "13357": [
+   "Gesundbrunnen"
+  ],
+  "13359": [
+   "Gesundbrunnen"
+  ],
+  "13403": [
+   "Reinickendorf",
+   "Wittenau"
+  ],
+  "13405": [
+   "Reinickendorf",
+   "Tegel",
+   "Wedding"
+  ],
+  "13407": [
+   "Reinickendorf",
+   "Wedding"
+  ],
+  "13409": [
+   "Reinickendorf",
+   "Gesundbrunnen"
+  ],
+  "13435": [
+   "Wittenau",
+   "Märkisches Viertel"
+  ],
+  "13437": [
+   "Wittenau"
+  ],
+  "13439": [
+   "Märkisches Viertel"
+  ],
+  "13465": [
+   "Frohnau"
+  ],
+  "13467": [
+   "Hermsdorf"
+  ],
+  "13469": [
+   "Lübars",
+   "Waidmannslust"
+  ],
+  "13503": [
+   "Heiligensee"
+  ],
+  "13505": [
+   "Konradshöhe",
+   "Heiligensee"
+  ],
+  "13507": [
+   "Tegel"
+  ],
+  "13509": [
+   "Tegel",
+   "Borsigwalde"
+  ],
+  "13581": [
+   "Wilhelmstadt",
+   "Spandau",
+   "Staaken"
+  ],
+  "13583": [
+   "Falkenhagener Feld",
+   "Spandau"
+  ],
+  "13585": [
+   "Spandau",
+   "Hakenfelde"
+  ],
+  "13587": [
+   "Hakenfelde"
+  ],
+  "13589": [
+   "Falkenhagener Feld",
+   "Hakenfelde"
+  ],
+  "13591": [
+   "Staaken"
+  ],
+  "13593": [
+   "Wilhelmstadt",
+   "Staaken"
+  ],
+  "13595": [
+   "Wilhelmstadt"
+  ],
+  "13597": [
+   "Spandau",
+   "Wilhelmstadt"
+  ],
+  "13599": [
+   "Haselhorst",
+   "Siemensstadt"
+  ],
+  "13627": [
+   "Charlottenburg-Nord"
+  ],
+  "13629": [
+   "Siemensstadt",
+   "Tegel"
+  ],
+  "14050": [
+   "Westend"
+  ],
+  "14052": [
+   "Westend"
+  ],
+  "14053": [
+   "Westend"
+  ],
+  "14055": [
+   "Westend"
+  ],
+  "14057": [
+   "Charlottenburg",
+   "Westend"
+  ],
+  "14059": [
+   "Charlottenburg",
+   "Westend"
+  ],
+  "14089": [
+   "Kladow",
+   "Gatow"
+  ],
+  "14109": [
+   "Wannsee",
+   "Nikolassee"
+  ],
+  "14129": [
+   "Nikolassee",
+   "Schlachtensee"
+  ],
+  "14163": [
+   "Zehlendorf",
+   "Schlachtensee",
+   "Nikolassee"
+  ],
+  "14165": [
+   "Zehlendorf"
+  ],
+  "14167": [
+   "Lichterfelde",
+   "Zehlendorf"
+  ],
+  "14169": [
+   "Zehlendorf",
+   "Dahlem"
+  ],
+  "14193": [
+   "Grunewald",
+   "Schmargendorf"
+  ],
+  "14195": [
+   "Dahlem",
+   "Schmargendorf"
+  ],
+  "14197": [
+   "Wilmersdorf"
+  ],
+  "14199": [
+   "Schmargendorf",
+   "Wilmersdorf"
+  ]
+ }
+}
